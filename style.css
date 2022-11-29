@@ -150,7 +150,7 @@ img{
 .menuSidebar{
     background-color: var(--headerSlightlyDarker);
     position: fixed;
-    width: 15vw;
+    width: 15em;
     height: calc(100vh - var(--header-height));
     top: var(--header-height);
     right: -15vw;
