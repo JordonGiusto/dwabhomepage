@@ -17,7 +17,7 @@
 
 body{
     margin: 0;
-    background-color: white;
+    background-color: var(--headerSlightlyDarker);
 }
 
 #header{
