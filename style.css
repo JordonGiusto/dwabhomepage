@@ -153,7 +153,7 @@ img{
     width: 15em;
     height: calc(100vh - var(--header-height));
     top: var(--header-height);
-    right: -15vw;
+    right: -15em;
     transition-duration: .2s;
     display: flex;
     flex-direction: column;
@@ -197,4 +197,8 @@ img{
 }
 .menuItem:hover p{
     color: var(--logoColor);
+}
+
+.cutout{
+    clip-path: circle(70% at 90% 50%);
 }
