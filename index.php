@@ -8,7 +8,7 @@
     <title>DwabDevs - Home</title>
 </head>
 <body>
-    <!--#include virtual="header.html" -->
+   <?php include 'header.php'; ?>  
     <div id="header">
         <div class="logo" onclick="location.href='http://dwab.games'">
             <div id="boxOuter">
